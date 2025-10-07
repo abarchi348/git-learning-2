@@ -1,1 +1,3 @@
-Ceci est le fichier about.txt sur la branche main
+Nom: Farikou Abarchi
+Prénom: Abdoul Raphiou
+Lieu de naissance: Niamey
